@@ -3,3 +3,4 @@ Project cont tomorrow
 Blog project resub today, landing page tomorrow
 resubmit landing page with javascript file attached
 file not submitted
+currently editing file
